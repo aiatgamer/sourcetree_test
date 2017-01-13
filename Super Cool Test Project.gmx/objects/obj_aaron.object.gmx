@@ -28,8 +28,12 @@
             <string>///Code 
 hi = 10
 
+<<<<<<< HEAD
 hi = 20!
 this is my line = aiat!
+=======
+hi = "20"
+>>>>>>> 1dce29638577137e81f19023184b2860e6c8a86e
 </string>
           </argument>
         </arguments>
