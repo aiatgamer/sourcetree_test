@@ -9,7 +9,7 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_aaron</object>
+    <object>objects\object1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_test</room>
