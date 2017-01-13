@@ -28,7 +28,7 @@
             <string>///Code 
 hi = 10
 
-hi = 20!
+hi = "20"
 </string>
           </argument>
         </arguments>
